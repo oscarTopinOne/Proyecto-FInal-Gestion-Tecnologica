@@ -76,5 +76,7 @@ En estos casos se recomienda la utilización de otro sistema para recopilar y an
 ![prome](https://user-images.githubusercontent.com/30842893/61817206-9b063e00-ae13-11e9-9922-26010814fb68.jpg)
 
 ### Referencias 
-[1]. http://www.hontza.es/estrategia/ <br />
-[2]. https://www.ovtt.org/destacados/hontza-herramienta-para-la-vigilancia-tecnologica-colaborativa <br />
+[1]. https://www.aplyca.com/es/blog/monitoreo-de-contenedores-con-prometheus-y-grafana <br />
+[2]. https://pandorafms.com/blog/es/que-es-grafana/  <br />
+[3]. https://pandorafms.com/blog/es/que-es-grafana/  <br />
+
