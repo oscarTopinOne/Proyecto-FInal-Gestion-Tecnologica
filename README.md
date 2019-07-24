@@ -38,7 +38,7 @@ Grafana está escrita en Lenguaje Go (creado por Google) y Node.js LTS y con una
 ![grafanaent](https://user-images.githubusercontent.com/30842893/61821426-cc373c00-ae1c-11e9-9ada-5e9ff5fffed3.png)
 
 ### Prometheus
-![Captura de pantalla de 2019-07-24 14-12-57](https://user-images.githubusercontent.com/30842893/61821616-39e36800-ae1d-11e9-9f6a-7b96e85aa201.png)
+![Captura](https://user-images.githubusercontent.com/30842893/61816638-6645b700-ae12-11e9-8008-4065076442db.png)
 
 Prometheus es una base de series de tiempo y un sistema de monitoreo y alertas. Las series de tiempo almacenan datos ordenados cronológicamente, midiendo variables a lo largo del tiempo y las bases de datos enfocadas a series de tiempo son especialmente eficientes en almacenar y consultar estos datos.
 
@@ -73,7 +73,7 @@ En estos casos se recomienda la utilización de otro sistema para recopilar y an
 
 #### Vista del entorno
 ##### 2. Vista <br />
-![prome](https://user-images.githubusercontent.com/30842893/61817206-9b063e00-ae13-11e9-9922-26010814fb68.jpg)
+![Captura de pantalla de 2019-07-24 14-12-57](https://user-images.githubusercontent.com/30842893/61821616-39e36800-ae1d-11e9-9f6a-7b96e85aa201.png)
 
 #### Sección de Pruebas Proyecto
 
