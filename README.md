@@ -57,34 +57,23 @@ Características Principales
 Almacena todas las muestras recortadas localmente y ejecuta reglas sobre estos datos para agregar y registrar nuevas series temporales a partir de datos existentes o para generar alertas.
 Prometheus elimina las métricas de los trabajos instrumentados, ya sea directamente o a través de un Gateway de inserción intermedia para trabajos de poca duración.
 
+#### Cuando usar Prometheus
+Prometheus funciona bien para grabar cualquier serie temporal puramente numérica. Se ajusta tanto a la supervisión centrada en la máquina como a la supervisión de arquitecturas orientadas a servicios altamente dinámicas.
 
+Para microservicios, es útil en la recopilación y consulta de datos multidimensionales es una fortaleza particular. Prometheus está diseñado para brindar confiabilidad. Es un sistema al que cualquier usuario puede acudir durante una interrupción o incidente  y diagnosticar rápidamente los problemas.
 
+Cada servidor Prometheus es independiente sin depender del almacenamiento de red u otros servicios remotos. Esto nos da confianza cuando otras partes de la infraestructura estén rotas dado que no se requiere configurar una amplia infraestructura para usarlo.
 
+#### Cuando no usar Prometheus
+Prometheus valora la fiabilidad. Siempre tiene disponible las estadísticas del sistema, incluso cuando hay fallos.
 
+Si se requiere absoluta precisión, como en el caso de la facturación por solicitud, Prometheus no ofrece las mejores opciones ya que los datos recopilados probablemente no sean lo suficientemente detallados y completos.
 
+En estos casos se recomienda la utilización de otro sistema para recopilar y analizar datos para la facturación, y a continuación trabajar con Prometheus para el resto del monitoreo.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#### Vista del entorno
+##### 2. Vista <br />
+![prome](https://user-images.githubusercontent.com/30842893/61817206-9b063e00-ae13-11e9-9922-26010814fb68.jpg)
 
 ### Referencias 
 [1]. http://www.hontza.es/estrategia/ <br />
