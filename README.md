@@ -39,6 +39,51 @@ Grafana está escrita en Lenguaje Go (creado por Google) y Node.js LTS y con una
 
 ### Prometheus
 ![prometheus](https://user-images.githubusercontent.com/30842893/61816638-6645b700-ae12-11e9-8008-4065076442db.png)
+Prometheus es una base de series de tiempo y un sistema de monitoreo y alertas. Las series de tiempo almacenan datos ordenados cronológicamente, midiendo variables a lo largo del tiempo y las bases de datos enfocadas a series de tiempo son especialmente eficientes en almacenar y consultar estos datos.
+
+El proyecto tiene una comunidad muy activa de usuarios y desarrolladores. Desde su creación en el año 2012 ha evolucionado a convertirse en un proyecto independiente de código abierto siendo parte de la Cloud Native Computing Foundation desde 2016 como el segundo proyecto alojado, después de Kubernetes.
+
+#### Caracteristicas
+
+Características Principales
+
+- Modelo de datos multidimensional: con datos de series de tiempo identificados por nombre métrico y claves/ valores pares.
+- Lenguaje flexible de consultas: permite aprovechar esta multidimensionalidad para consultar los datos de manera simple y flexible.
+- Nodos autónomos de servidor único: debido a la poca confianza en el almacenamiento distribuido, la colección de series de tiempo ocurre a través de un modelo de extracción, por medio de HTTP.
+- Configuración estática:  los objetivos se determinan mediante configuración estática o descubrimiento de servicios.
+
+#### Arquitectura de Prometheus
+Almacena todas las muestras recortadas localmente y ejecuta reglas sobre estos datos para agregar y registrar nuevas series temporales a partir de datos existentes o para generar alertas.
+Prometheus elimina las métricas de los trabajos instrumentados, ya sea directamente o a través de un Gateway de inserción intermedia para trabajos de poca duración.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Referencias 
 [1]. http://www.hontza.es/estrategia/ <br />
