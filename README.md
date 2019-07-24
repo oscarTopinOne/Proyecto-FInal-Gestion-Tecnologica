@@ -37,6 +37,8 @@ Grafana está escrita en Lenguaje Go (creado por Google) y Node.js LTS y con una
 ##### 1. Vista <br />
 ![grafanaent](https://user-images.githubusercontent.com/30842893/61816445-fd5e3f00-ae11-11e9-8d88-ddefa40634ba.png)
 
+### Prometheus
+![prometheus](https://user-images.githubusercontent.com/30842893/61816638-6645b700-ae12-11e9-8008-4065076442db.png)
 
 ### Referencias 
 [1]. http://www.hontza.es/estrategia/ <br />
