@@ -75,8 +75,17 @@ En estos casos se recomienda la utilización de otro sistema para recopilar y an
 ##### 2. Vista <br />
 ![prome](https://user-images.githubusercontent.com/30842893/61817206-9b063e00-ae13-11e9-9922-26010814fb68.jpg)
 
+#### Sección de Pruebas Proyecto
+
+##### Fallos en algún componente
+En la siguiente imagen se observa que ocurre un problema con el Componente FileUtil pero funciona la conexión con la Base de Datos.
+![Login Fallido(1)](https://user-images.githubusercontent.com/30842893/61818795-3a790000-ae17-11e9-99fe-b670f667c508.png)
+
+##### Corrección y comprobación exitosa de los componentes
+En la siguiente imagen se observa las correcciones con el Componente FIleUtil y funcionan los demás componentes.
+![Login Exitoso(2)](https://user-images.githubusercontent.com/30842893/61819035-d145bc80-ae17-11e9-869f-d37b069d258d.png)
+
+
 ### Referencias 
 [1]. https://www.aplyca.com/es/blog/monitoreo-de-contenedores-con-prometheus-y-grafana <br />
 [2]. https://pandorafms.com/blog/es/que-es-grafana/  <br />
-[3]. https://pandorafms.com/blog/es/que-es-grafana/  <br />
-
