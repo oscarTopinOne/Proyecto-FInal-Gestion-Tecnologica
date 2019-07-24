@@ -1,0 +1,7 @@
+/app/src/main/java/health/Cliente.java
+/app/src/main/java/health/Application.java
+/app/src/main/java/health/FileUtil.java
+/app/src/main/java/health/MiscUtil.java
+/app/src/main/java/health/DbHealthCheck.java
+/app/src/main/java/health/InicioSesion.java
+/app/src/main/java/health/HealthCheckExporter.java
