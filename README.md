@@ -15,7 +15,7 @@
 
 
 ### Grafana
-![logohontza](https://user-images.githubusercontent.com/30842893/60198007-3cdf3e80-9806-11e9-85ee-dafcbaa6549d.png)
+![grafana-logo](https://user-images.githubusercontent.com/30842893/61815686-6d6bc580-ae10-11e9-8ce6-f5fde3f872dd.jpg)
 
 Grafana es una herramienta hecha en software libre, específicamente con licencia Apache 2.0, ideada por Torkel Ödegaard (quien todavía está al frente de su desarrollo y mantenimiento) y creada en enero de 2014. Este desarrollador sueco comenzó su carrera en el ambiente .NET y en 2012 (hasta la fecha) sigue ofreciendo servicios de desarrollo y consultoría en esta popular plataforma privativa, de forma paralela con el desarrollo de software libre.
 
