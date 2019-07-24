@@ -27,32 +27,16 @@ Grafana está escrita en Lenguaje Go (creado por Google) y Node.js LTS y con una
 - Lenguaje flexible de consultas: permite aprovechar esta multidimensionalidad para consultar los datos de manera simple y flexible.
 - Nodos autónomos de servidor único: debido a la poca confianza en el almacenamiento distribuido, la colección de series de tiempo ocurre a través de un modelo de extracción, por medio de HTTP.
 - Configuración estática:  los objetivos se determinan mediante configuración estática o descubrimiento de servicios.
-
-### Como Funciona Grafana
-Permite que un Grupo de personas que compartan un Reto estratégico común puedan vigilar en tiempo real su entorno competitivo, pueda colaborar y generar, de modo ágil y sistemático, proyectos de alta calidad, alineados con la estrategia, compatibles con el entorno y priorizados.
-
-![inteligencia_grafico](https://user-images.githubusercontent.com/30842893/60198195-a9f2d400-9806-11e9-90cc-d371428dfe53.jpg)
-
-Dicho de un modo sencillo, HONTZA ayuda a una organización a generar sistemáticamente proyectos innovadores sin gastar dinero y garantizando el máximo impacto.
-Para ello, HONTZA automatiza el proceso de la vigilancia tecnológica y la inteligencia competitiva. Lo que implica estructurar toda la cadena de valor, en este orden:
-- El despliegue estratégico del Reto (sub-retos, decisiones, necesidades de información).
-- La gestión de las fuentes de información de mayor valor para el Reto.
-- La explotación de las fuentes creando canales para monitorizar el entorno competitivo.
-- El filtrado en grupo, de carácter colaborativo.
-- La gestión de los debates para llegar a conclusiones comunes sobre lo que nos preocupa.
-- La gestión de wikis para construir documentos colaborativos con lo que sabemos todo el grupo.
-- La generación de ideas, oportunidades y proyectos como respuesta al entorno.
-#### Instrucciones
-```sh
-INSTRUCCIÓN DE USO:
-
-Para usar esta herramienta de vigilancia tecnologica:
-1. Crear una cuenta desde la pagina HONTZA.
-2. Usar la herramienta.
-```
+- Dispondremos de gráficos elegantes para la visualización de datos. Los gráficos son rápidos y flexibles, con numerosas opciones.
+- Pone a nuestra disposición paneles dinámicos y reutilizables.
+- Es altamente extensible, podemos utilizar muchos paneles y complementos disponibles en la biblioteca oficial.
+- Pondrá a nuestra disposición la autenticación a través de LDAP, Google Auth, Grafana.com y Github.
+- Respalda notablemente la colaboración al permitir el intercambio de datos y cuadros de mando entre equipos.
+- Está disponible una demostración en línea para que pruebes Grafana antes de instalarlo en tu equipo.
 #### Vista del entorno
 ##### 1. Vista <br />
-![vista](https://user-images.githubusercontent.com/30842893/60198059-5da79400-9806-11e9-9d7f-2305221bbc95.png)
+![grafanaent](https://user-images.githubusercontent.com/30842893/61816445-fd5e3f00-ae11-11e9-8d88-ddefa40634ba.png)
+
 
 ### Referencias 
 [1]. http://www.hontza.es/estrategia/ <br />
