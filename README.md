@@ -1,5 +1,12 @@
-## Herramienta Vigilancia Tecnologica
+## Proyecto Final Gestión Tecnologica
 ### Integrantes:
+
+- Jaime Santana - 20132020212
+
+- Oscar Javier Hernandez Cepeda - 20152020019
+
+- Juan Sebastian Sanchez Mancilla - 20152020020 
+
 - Oscar Ivan Torres Pinto - 20152020044
 
 - Yohan Arles Almonacid Ortiz - 20152020916 
@@ -7,25 +14,21 @@
 - Brian Alfonso Rodriguez - 20151020600
 
 
-### HONTZA
+### Grafana
 ![logohontza](https://user-images.githubusercontent.com/30842893/60198007-3cdf3e80-9806-11e9-85ee-dafcbaa6549d.png)
 
-HONTZA es una plataforma en código abierto que automatiza el proceso de la Inteligencia Competitiva y Estratégica y se articula a través de grupos colaborativos. Entre sus características, esto supone estar ante una plataforma:
+Grafana es una herramienta hecha en software libre, específicamente con licencia Apache 2.0, ideada por Torkel Ödegaard (quien todavía está al frente de su desarrollo y mantenimiento) y creada en enero de 2014. Este desarrollador sueco comenzó su carrera en el ambiente .NET y en 2012 (hasta la fecha) sigue ofreciendo servicios de desarrollo y consultoría en esta popular plataforma privativa, de forma paralela con el desarrollo de software libre.
 
-- Gratuita y descargable a través de su dominio, http://www.hontza.es.
-- Su código es modificable.
-- Está diseñado para que lo usen grupos de usuarios, no usuarios individualmente.
-- Puede funcionar a través de un servidor web con un dominio o un ordenador con Windows dando servicio a una intranet.
-- Es totalmente compatible con la norma UNE 166006:2011 sobre vigilancia tecnológica e inteligencia competitiva.
+Grafana está escrita en Lenguaje Go (creado por Google) y Node.js LTS y con una fuerte Interfaz de Programación de Aplicaciones (API); es una aplicación que ha venido escalando posiciones, con una comunidad entusiasta de más de 600 colaboradores bien integrados (son 7 desarrolladores líderes -Torkel a la cabeza- y 5 a tiempo parcial para poder coordinar tal grupo de personas). Su código fuente está publicado, cómo no, en GitHub.
 
-#### Caracteristicas y Alcance
+#### Caracteristicas
 
-En la actualidad, con software de vigilancia tecnológica e inteligencia competitiva en código cerrado, el usuario es el “sufridor”, puesto que en la mayoría de los casos está obligado a pagar licencias, tiene escasas opciones para personalizar el software y no puede modificar el código para introducir mejoras que necesita. Además, dos usuarios que trabajen con dos instalaciones distintas nunca podrán colaborar. Lo que convierte al usuario en un dependiente total del fabricante del software, dificultando cualquier modificación que necesite.
-Por ello, los tiempos actuales reclaman un cambio de escenario en el que aquellos usuarios que lo deseen puedan tener un cierto protagonismo en la construcción del software, adoptando posibilidades para tomar parte activa en el proceso, incluso colaborando entre ellos, compartiendo recursos, etc. Y con esta filosofía hemos ideado HONTZA.
-Es muy adaptable a los objetivos de quien decide instalarlo. Así, puede servir para montar un Sistema de Vigilancia Tecnológica e Inteligencia Competitiva orientado al uso particular de un grupo de investigación; o puede instalarse para dar servicio a empresas o a grupos de investigación asociados (por ejemplo, en Centros Tecnológicos, en Fundaciones Universidad-Empresa, en Asociaciones sectoriales, etc.).
-Además, HONTZA también permite ser instalado en universidades con fines educativos y en el ámbito de la Gestión de la Innovación y de la Gestión estratégica de la empresa.
+- Modelo de datos multidimensional: con datos de series de tiempo identificados por nombre métrico y claves/ valores pares.
+- Lenguaje flexible de consultas: permite aprovechar esta multidimensionalidad para consultar los datos de manera simple y flexible.
+- Nodos autónomos de servidor único: debido a la poca confianza en el almacenamiento distribuido, la colección de series de tiempo ocurre a través de un modelo de extracción, por medio de HTTP.
+- Configuración estática:  los objetivos se determinan mediante configuración estática o descubrimiento de servicios.
 
-### Como Funciona HONTZA
+### Como Funciona Grafana
 Permite que un Grupo de personas que compartan un Reto estratégico común puedan vigilar en tiempo real su entorno competitivo, pueda colaborar y generar, de modo ágil y sistemático, proyectos de alta calidad, alineados con la estrategia, compatibles con el entorno y priorizados.
 
 ![inteligencia_grafico](https://user-images.githubusercontent.com/30842893/60198195-a9f2d400-9806-11e9-90cc-d371428dfe53.jpg)
